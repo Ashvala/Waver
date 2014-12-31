@@ -9,7 +9,7 @@ Compiling:
 
 - Run
 
-    make
+    `make`
 
 It ought to create an executable called "waver".
 
