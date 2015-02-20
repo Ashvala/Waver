@@ -1,6 +1,6 @@
 #ifndef WAVER_H_
 #define WAVER_H_
-
+  
 #define SRATE 44100 // Sample rate
 
 typedef struct{
